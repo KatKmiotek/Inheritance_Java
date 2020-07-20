@@ -1,4 +1,4 @@
-package management;
+package staff.management;
 
 public class Director extends Manager {
     private double budget;
